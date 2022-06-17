@@ -1,8 +1,6 @@
 
 body{
     font-family: 'Poppins', sans-serif;
-    
-    
 }
 .orange-color{
     color: #FFB562;
@@ -33,7 +31,6 @@ h1{
     padding: 10px 40px;
     border-radius: 5px;
     color: #fff;
-    font-weight: bold;
     margin: 20px 0;
 }
 p{
@@ -81,14 +78,33 @@ h2{
     margin: 0 auto;
     margin-bottom: 100px;
 }
-.develop-img{
-    width: 50%;
-}
+
 .develop-content{
+    width: 65%;
+    padding-left: 50px;
+}
+.develop-pic{
+    width: 35%;
+}
+.develop-img{
     width: 100%;
 }
-.develop-img{
-    width: 75%;
+.community-section{
+    width: 100%;
+    display: flex;
+    width: 80vw;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.community-content{
+    width: 65%;
+}
+.community-pic{
+    width: 35%;
+    padding-left: 50px;
+}
+.community-img{
+    width: 100%;
 }
 
 
