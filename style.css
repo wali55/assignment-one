@@ -106,5 +106,24 @@ h2{
 .community-img{
     width: 100%;
 }
+.app-area{
+    width: 100%;
+    display: flex;
+    width: 80vw;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.app-content{
+    width: 70%; 
+}
+.app-pic{
+    width: 30%;
+}
+.app-img{
+    width: 70%;
+}
+.app-header{
+    text-align: center;
+}
 
 
