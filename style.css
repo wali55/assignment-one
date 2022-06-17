@@ -1,3 +1,4 @@
+
 body{
     font-family: 'Poppins', sans-serif;
     
@@ -9,17 +10,18 @@ body{
 .focus-section{
     display: flex;
     width: 100%;
-    margin: 100px 0;
+    margin: 100px auto;
+    max-width: 80vw;
 }
 h1{
     font-size: 50px;
     border-left: 5px solid #F87474;
     padding-left: 15px;
     font-family: 'Volkhov', serif;
+    font-weight: 700;
 }
 .half-width{
     width: 50%;
-    padding-left: 5%;
 }
 .my-img{
     width: 100%;
@@ -36,6 +38,41 @@ h1{
 }
 p{
     font-size: 1.2rem;
+}
+h2{
+    font-size: 40px;
+    font-family: 'Paytone One', sans-serif;
+}
+.mission-section{
+    max-width: 80vw;
+    margin: 0 auto;
+}
+.mission-heading{
+    text-align: center;
+}
+.mission-area{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+.mission-content{
+    width: 30%;
+    margin: 10px 10px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+.mission-content img{
+    width: 50%;
+}
+.mission{
+    background-color: #edf5f5;
+}
+.vission{
+    background-color: #ffeeee;
+}
+.goals{
+    background-color: #fff4d6;
 }
 
 
