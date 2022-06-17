@@ -74,5 +74,21 @@ h2{
 .goals{
     background-color: #fff4d6;
 }
+.develop-section{
+    width: 100%;
+    display: flex;
+    width: 80vw;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.develop-img{
+    width: 50%;
+}
+.develop-content{
+    width: 100%;
+}
+.develop-img{
+    width: 75%;
+}
 
 
